@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Shell(New-Item:*)",
+      "Shell(Select-Object:*)",
+      "powershell"
+    ],
+    "deny": [],
+    "defaultMode": "default"
+  }
+}

@@ -1,0 +1,24 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Environment & secrets
+.env
+.env.local
+
+# Test reports & artifacts
+/reports/
+/custom-report/
+/allure-results/
+/allure-report/
+
+# Playwright CLI / MCP / IDE caches
+/.playwright/
+/.playwright-cli/
+/.playwright-mcp/
+
