@@ -1,6 +1,6 @@
 #To run manually: go to your repo → Actions → Playwright Tests → Run workflow → choose your parameters → Run.
 
-name: 🎭 Playwright Tests
+name: 🎭 Playwright Test
 
 on:
   push:
